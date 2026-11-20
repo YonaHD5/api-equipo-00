@@ -1,0 +1,14 @@
+{
+  "name": "api-equipo-00",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "type": "module",
+  "devDependencies": {
+    "wrangler": "^4.165.0"
+  }
+}
